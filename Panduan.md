@@ -71,17 +71,19 @@ Bingung? mari kita menggunakan imajinasi
 bayangkan kamu memiliki 1 garasi yang bisa menampung 5 mobil kamu
 code nya akan seperti ini :
 
-char garasi[5];
+`char garasi[5];`
 
 kamu baru saja membuat garasi barumu
 [] [] [] [] [] //bayangkan ini garasimu
 
 dalam array kita menghitung secara index yang dimana berarti kita menghitung dimulai dari 0
 
-```[] [] [] [] []
-^ ^ ^ ^ ^
-0 1 2 3 4
 ```
+[] [] [] [] []
+^  ^  ^  ^  ^
+0  1  2  3  4
+```
+
 sekarang kita masukkan mobil kedalam garasimu, gini kodenya
 
 `garasi[0] = "mobil1";` <-ini akan memasukkan mobilmu ke garasi pertama mari kita bedah kodenya
@@ -90,13 +92,17 @@ sekarang kita masukkan mobil kedalam garasimu, gini kodenya
 2. garasi disini mengambil nama array yang sudah kita deklarasi sebagai garasi
 
 mari kita lihat garasi kita sekarang
+
 ```
 [mobil1] [] [] [] []
 ^ ^ ^ ^ ^
 0 1 2 3 4
 ```
+
 bagus mobil mu sudah masuk ke garasi pertama. sekarang kamu sudah mengerti cara menggunakan array coba kamu masukkan sendiri mobil mobil kamu kedalamnya
 
+```
 [mobil 1] [mobil 2] [mobil 3] [mobil 4] [mobil 5]
+```
 
 disini kita sudah memasukkan 5 mobil kedalam garasi kita
