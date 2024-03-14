@@ -65,6 +65,8 @@ Kita juga bisa menginisialisasi array saat mendeklarasikannya. Misalnya:
 
 `int angka[5] = {10, 20, 30, 40, 50};` Mendeklarasikan dan menginisialisasi array integer dengan 5 elemen Array
 
+**Lihat Gambar Dibawah ini**
+
 ![array](array.png)
 
 Bingung? mari kita menggunakan imajinasi
@@ -93,16 +95,10 @@ sekarang kita masukkan mobil kedalam garasimu, gini kodenya
 
 mari kita lihat garasi kita sekarang
 
-```
-[mobil1] [] [] [] []
-^ ^ ^ ^ ^
-0 1 2 3 4
-```
+`[mobil1] [] [] [] []`
 
-bagus mobil mu sudah masuk ke garasi pertama. sekarang kamu sudah mengerti cara menggunakan array coba kamu masukkan sendiri mobil mobil kamu kedalamnya
+bagus mobil mu sudah masuk ke garasi pertama. sekarang kamu sudah mengerti cara menggunakan array coba kamu masukkan sendiri mobil mobil kamu kedalamnya agar garasi mu terisi penuh seperti ini :
 
-```
-[mobil 1] [mobil 2] [mobil 3] [mobil 4] [mobil 5]
-```
+`[mobil1] [mobil2] [mobil3] [mobil4] [mobil5]`
 
-disini kita sudah memasukkan 5 mobil kedalam garasi kita
+
